@@ -1,9 +1,3 @@
 build/
 **~
-test_files/
-test_videos/
-videos/
-tags/
-taggedMotion/
-motion/
 .DS_Store
